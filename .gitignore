@@ -1,0 +1,7 @@
+/output
+events.out.*
+.vscode
+*pyc
+**/build
+**/*.egg-info
+submodules/**/dist

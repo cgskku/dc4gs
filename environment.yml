@@ -1,0 +1,23 @@
+name: DC4GS
+channels:
+  - nvidia/label/cuda-11.6.2
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - cuda=11.6.2
+  - cudatoolkit=11.6
+  - plyfile
+  - python=3.7.13
+  - pip=22.3.1
+  - pytorch=1.12.1
+  - torchaudio=0.12.1
+  - torchvision=0.13.1
+  - tqdm
+  - pip:
+    - GPUtil
+    - opencv-python
+    - lpips
+    - submodules/diff-gaussian-rasterization-abs
+    - submodules/diff-gaussian-rasterization-dcc
+    - submodules/simple-knn
