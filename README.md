@@ -54,10 +54,6 @@ python metrics.py \
   --skip_train
 ```
 
-## License
-
-This project is licensed under CC BY 4.0. Redistribution and use of the code for non-commercial purposes should follow this license.
-
 ## Citation
 
 If you find this work useful, please cite:
