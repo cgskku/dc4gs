@@ -60,7 +60,7 @@ If you find this work useful, please cite:
 
 ```bibtex
 @inproceedings{jeong25dc4gs,
-    title       = {DC4GS: Directional Consistency-Driven Adaptive Density Control for 3D Gaussian Splatting},
+    title       = {{DC4GS: Directional Consistency-Driven Adaptive Density Control for 3D Gaussian Splatting}},
     author      = {Jeong, Moonsoo and Kim, Dongbeen and Kim, Minseong and Lee, Sungkil},
     booktitle   = {Advances in Neural Information Processing Systems (NeurIPS)},
     year        = {2025}
