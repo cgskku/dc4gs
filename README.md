@@ -68,4 +68,4 @@ If you find this work useful, please cite:
 ```
 
 ## Acknowledgement
-This repository is based on the [3DGS](https://github.com/ykdai/Flare7K) and [AbsGS](https://github.com/TY424/AbsGS). Thanks for their awesome work.
+This repository is based on the [3DGS](https://github.com/graphdeco-inria/gaussian-splatting) and [AbsGS](https://github.com/TY424/AbsGS). Thanks for their awesome work.
