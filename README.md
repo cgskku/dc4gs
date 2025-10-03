@@ -4,9 +4,11 @@ This repository contains the official dateset and code in the following paper:
 
 [DC4GS: Directional Consistency-Driven Adaptive Density Control for 3D Gaussian Splatting](https://cg.skku.edu/pub/2025-jeong-neurips-dc4gs)
 
-[Moonsoo Jeong¹](https://cg.skku.edu/ppl/), [Dongbeen Kim¹](https://cg.skku.edu/ppl/), [Minseong Kim¹](https://cg.skku.edu/ppl/), [Sungkil Lee¹](https://cg.skku.edu/slee/)
+[Moonsoo Jeong<sup><small>1</small></sup>](https://cg.skku.edu/ppl/), [Dongbeen Kim<sup><small>1</small></sup>](https://cg.skku.edu/ppl/), [Minseong Kim<sup><small>1</small></sup>](https://cg.skku.edu/ppl/), [Sungkil Lee<sup><small>1,*</small></sup>](https://cg.skku.edu/slee/)
 
-¹Sungkyunkwan University
+<sup><small>1</small></sup>Sungkyunkwan University
+
+<sup><small>*</small></sup>Corresponding author
 
 *Conference on Advances in Neural Information Processing Systems (NeurIPS) 2025*
 
